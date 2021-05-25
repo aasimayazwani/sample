@@ -1,0 +1,5 @@
+channel_alias: https://aasim.wani%40entos.ai:
+AKCp8jQJEgbpspGWyFsgqieJvQnFJJZoFdKaw3ffHhwJoP5y5sM9JDVQVLGorsWoP68YhbMAp@entos.jfrog.io/artifactory/api/conda
+channels:
+  - https://conda.anaconda.org/conda-forge
+show_channel_urls: true
